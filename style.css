@@ -1,0 +1,77 @@
+
+h1{
+    color: red;
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 0 px;
+    padding: 25px;
+    border: 25px solid black;
+    position: static;
+    min-height: 200px;
+       background-image: radial-gradient(circle 100px ,  yellow 70px,  rgb(195, 195, 18) 80px, blue);
+
+}
+
+      
+div{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.card{
+    width: 300px;
+    height: 300px;
+    background-color: lightseagreen;
+    border: 25px solid lightslategray;
+    box-shadow: 0 0 1px 1px black;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    float: inline-end;
+}
+
+.main-headermain-header {
+    background-color: #333; /* Colore di sfondo iniziale */
+    color: white; /* Colore del testo */
+    padding: 20px;
+    text-align: center;
+    transition: background-color 0.3s ease; /* Aggiunge una transizione per il cambio di colore */
+    margin-bottom: 20px;
+    border: bottom 20px ridge #000;
+    border-radius: 999px;
+    width: 75%;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+
+  .main-header:hover {
+    background-color: #555; /* Colore di sfondo quando si passa sopra con il mouse */
+  }
+
+li{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+}
+
+span{
+    text-align: center;
+    font-size: 1.4rem;
+
+}
