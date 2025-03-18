@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: lightblue
+}
+
+header{
+color: white;
+background-color: blue;
+font-size: 1.4rem;
+text-align: center;
+margin: 0 px;
+padding: 25px;
+position: static;
+min-height: 200px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    float: right;
+    color: white;
+    margin: 5px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
